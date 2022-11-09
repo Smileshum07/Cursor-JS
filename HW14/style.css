@@ -1,0 +1,9 @@
+body{
+    background: url(./tuman.jpg) no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    margin: auto 50%;
+}
